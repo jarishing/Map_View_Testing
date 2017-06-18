@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/sqlcipher.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="372b3cc280b8ef1d8079ef984aa838b78bfe9aa0">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/sqlcipher_eecbce66e362d8a8206abfc65d5fc12511b1c22b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56caaeea09d3e406f6160972ff5d3e6c0e6f139b">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/converter-gson-2.0.1_1e6dad3587e281a6db151f69a2b078ead4901bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b55150f9b025eebdddb6426bb4e85e673af338a3">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/retrofit-2.0.1_b8d0f030b5ae3d4935d6e498460811d9f4a7d03f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d74e8f1f626068a2a88882e7e74d38484eb02f6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2214a764ca52177c59114e91bf592b554a018220">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4bb2a756f97221f677a630becefca09bca59bc1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58a92147e3365aa0039fc81a31b87f4957e6a555">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/okio-1.7.0_efeae063996bef0592c185f7b43ffcff3140de69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/dji_gson.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="729a9cf81838d286b6098dc9c33d264d5db48a26">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/dji_gson_50f2cf4537b7c61c070f5aa097be583380dae9a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc54e68ea5a1410ba9889536ab3100e36d2014aa">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/Java-WebSocket-1.3.0_516bac85d5203937ff15471ce28f43f54013c539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/dji_eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91a5399115cedf41ebd53be7c96e424ac3aed1a8">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/dji_eventbus_e798f0ba15acada44f75c3bf16c488f5833f6ef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03773badcb9e99ad699db657fa0e20cafbf774ef">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/okhttp-3.2.0_a8084afc9e2d704a0b38b8f03377d37544347b34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/rxjava-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4f11e8e7dd89f5f87e5d81000582eabb071da91">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/rxjava-1.1.2_7a1c43912b2a8e565ea9d8b69cbeab7dfb4febb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1998e4f447fbf0194f39a12f3010d1f4f598667f">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/rxjava-computation-expressions-0.21.1_15e78bbee23df126257d28ca28d12a0d7ca4615a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/dji-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13145cded999ba4cfb59c0ac088752a2c4062075">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/dji-sdk_b73e374cae473c2e127fd2ce2b508d24b5f25989/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/rxandroid-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92b4c46bf73b1caff27f0ad2b73fcd5730fa37de">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/rxandroid-1.1.0_c1149fccd9fd3b67d3f6013366e96721fa8f532b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/dJISDKLIB/build/intermediates/bundles/default/libs/sqlbrite-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80411084d9962ab5b48b274bb4b49e063095535a">
+        <dex dex="/Users/jarishing/AndroidStudioProjects/Android-FPVDemo/TestingV2/app/build/intermediates/transforms/dex/debug/folders/1000/8/sqlbrite-0.6.2_23010caf9a58815c85fc8eb7d228d82093ebe66b/classes.dex" />
+    </item>
+
+</items>
