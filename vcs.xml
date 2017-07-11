@@ -22,6 +22,14 @@
           <option name="url" value="https://jarishing1992@bitbucket.org/jarishing1992/map_view.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://jarishing1992@bitbucket.org/jarishing1992/map_testing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlemaps/android-maps-utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user\Desktop" />
