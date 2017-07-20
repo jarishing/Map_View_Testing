@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/tananaev/simple-camera-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/appsthatmatter/android-motion-detection.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user\Desktop" />
