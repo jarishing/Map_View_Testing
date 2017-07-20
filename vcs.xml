@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/kongqw/OpenCVForAndroid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.jianshu.com/p/7f766eb2f4e7" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user\Desktop" />
